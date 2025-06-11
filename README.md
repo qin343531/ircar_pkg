@@ -6,6 +6,10 @@
 ## ircar_pkg_hk
 在`ircar_pkg`的基础上添加了海康威视红外相机的rtsp流无线图传
 ## ros2_lidar
-D3YD型号的的激光雷达,例程资料较少
+从商家给的例程中转为了ros2工程
+### CamseneCSTool_D3YD.rar
+这是windows平台的上位机
+### SDK_V3.0-master.zip
+内含有商家给的例程,基于cmake框架
 ## ros2_ydlidar
 EAI YDLIADR X2激光雷达,有ROS,SLAM使用,官方资料较多
