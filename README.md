@@ -13,3 +13,5 @@
 内含有商家给的例程,基于cmake框架
 ## ros2_ydlidar
 EAI YDLIADR X2激光雷达,有ROS,SLAM使用,官方资料较多
+## ros2_ydlidar_SDK
+需要进入这个压缩包的build目录使用make进行安装，才可以使用ros2_ydlidar包
